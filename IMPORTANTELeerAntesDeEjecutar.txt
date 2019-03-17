@@ -1,0 +1,19 @@
+Para una correcta ejecución de los scripts del proyecto Unity del Grupo 14
+
+-Escena ENEMIES 
+
+Se ejecuta sin problemas sólo dando al play
+
+-Escena PATHFINDING
+
+	Encontramos dos scripts asociados dentro del objeto CHARACTER-PATHCONTROLLER
+	Ambos scripts tienen un buleano por defecto inicializado a false.
+
+	-Para cargar una escena con el script OFFLINERANDOMMIND O QLEARNINGRANDOMMIND
+	basta con seleccionar la casilla isActive y marcarla para cambiar el valor a true 
+	para seleccionar la escena que se quiera ejecutar
+	y la casilla del otro script sin marcar o deseleccionada a false.
+
+	El propio código se encarga de ejecutar el script que se encuentre a true.
+
+	Si los dos son false o true se ejecutará el primero que se encuentre en el inspector
