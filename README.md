@@ -8,6 +8,9 @@ If you can execute the Unity Project just read the document Importante Leer ante
 And a .pdf with a brief explanation about the project. (In spanish too)
 
 Links to see the project in Youtube
+
 [Q Learning - Youtube Link](https://www.youtube.com/watch?v=ogGfZ-Tv2Uk)
+
 [Hill Climbing and Pathfinding A star - Youtube Link](https://www.youtube.com/watch?v=N8MKOmDt9t4)
+
 [Pathfinding A star - Youtube Link](https://www.youtube.com/watch?v=dF5vPbW1KaU)
